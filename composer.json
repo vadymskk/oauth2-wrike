@@ -2,6 +2,7 @@
     "name": "worksection/oauth2-wrike",
     "description": "Wrike OAuth 2.0 support for the PHP League's OAuth 2.0 Client",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Michael Käfer",
@@ -16,7 +17,7 @@
     ],
     "version": "1.0.0",
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.2",
         "league/oauth2-client": "^2.0"
     },
     "require-dev": {
